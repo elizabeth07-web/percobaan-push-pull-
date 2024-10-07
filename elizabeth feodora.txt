@@ -1,5 +1,12 @@
 Hi my name is Feoblbala 
+<<<<<<< HEAD
 i like blue 
 
 
 harus di line 5 biar muncul error (line yg payung)
+=======
+
+i like blue 
+
+ini isi dari branch payung
+>>>>>>> payung
